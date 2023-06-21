@@ -9,7 +9,7 @@ Outside of work, I enjoy 🎮video games development, 🧩game design, 🌎trans
 <a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 
-<br><br><br><br>
+<hr><br><br><br><br>
 
 
 
@@ -93,6 +93,14 @@ Python / Machine Learning :
 
 <br><br>
 
+
+
+# 🕮 Planning to learn/skill up in the near future :
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+<br><br>
 
 
 <!-- <details>

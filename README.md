@@ -5,6 +5,7 @@ I also have a background in `Unix systems administration` and `Networking`.
 
 Outside of work, I enjoy 🎮video games development, 🧩game design, 🌎translation and 🎥cinematography
 
+<a href="https://github.com/vincent-clipet/vincent-clipet/blob/main/files/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=flat-square" /></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/vincent-clipet-044721260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
@@ -48,7 +49,7 @@ Javascript / Frontend :
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-Versioning / CI / Ticketing : 
+Versioning / CI / Ticketing :
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
@@ -64,7 +65,7 @@ Webservers :
 
 # 🔨 Used these once before :
 
-Java : 
+Java :
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 
@@ -78,7 +79,7 @@ Javascript :
 Languages :
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 
-DB : 
+DB :
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
 Code Analysis :
@@ -87,7 +88,7 @@ Code Analysis :
 3D :
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl)
 
-Python / Machine Learning : 
+Python / Machine Learning :
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 

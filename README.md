@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a backend developer from Lille, France, with 4 years of experience as backend developer, and currently looking for full-time work 😊
+I'm a backend developer from Dunkerque, France, with 4 years of experience as backend developer, and currently looking for full-time work around Dunkerque or Lille 😊
 
 I also have a background in `Unix systems administration` and `Networking`.
 
@@ -85,12 +85,24 @@ Python :
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-d22528?style=flat-square)
 
+C# :
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
 Languages :
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 
 DB :
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
+
+Infrastructure :
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+
+Front-end
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 Code Analysis :
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD)
@@ -98,12 +110,12 @@ Code Analysis :
 3D :
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl)
 
-Python / Machine Learning :
+Machine Learning :
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
-Infrastructure :
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+Low-Code/No-Code App Development :
+![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 <hr>
 
@@ -113,4 +125,4 @@ Infrastructure :
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)

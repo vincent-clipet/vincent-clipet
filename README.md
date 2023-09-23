@@ -21,7 +21,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
 </p>
 
-<hr><br>
+<hr>
 
 
 
@@ -164,4 +164,20 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine"></a>
 </p>
 
-<br>
+<hr>
+
+
+
+
+
+
+<img
+	height=200
+	align="center"
+	src="https://streak-stats.demolab.com?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E"
+/>
+<img
+	height=200
+	align="center"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=5&size_weight=0.3&count_weight=0.8"
+/>

@@ -28,7 +28,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 
 
 <p align="center">
-<h3 align="center">❤️ What I really like working with</h3>
+<b align="center">❤️ What I really like working with</b>
 </p>
 
 <p align="center">
@@ -39,12 +39,14 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
+<hr>
+
 
 
 
 
 <p align="center">
-<h3 align="center">🔧 What I have worked with</h3>
+<b align="center">🔧 What I have worked with</b>
 </p>
 
 <p align="center">
@@ -79,13 +81,14 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"></a>
 </p>
 
+<hr>
 
 
 
 
 
 <p align="center">
-<h3 align="center">🔨 What I've used once or twice</h3>
+<b align="center">🔨 What I've used once or twice</b>
 </p>
 
 <p align="center">
@@ -130,12 +133,14 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white"></a>
 </p>
 
+<hr>
+
 
 
 
 
 <p align="center">
-<h3 align="center">📖📈 What I'm planning to learn/improve in the future</h3>
+<b align="center">📖📈 What I'm planning to learn/improve in the future</b>
 </p>
 
 <p align="center">
@@ -156,13 +161,13 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=450
 	align="center"
-	src="https://streak-stats.demolab.com?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E"
+	src="https://streak-stats.demolab.com?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2023"
 />
 <img
 	height=200
 	width=340
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&size_weight=0.3&count_weight=0.8"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses&size_weight=0.3&count_weight=0.8"
 />
 </div>
 

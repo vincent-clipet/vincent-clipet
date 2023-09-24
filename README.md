@@ -165,3 +165,12 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=5&size_weight=0.3&count_weight=0.8"
 />
 </div>
+
+
+<div align="center">
+<a href="https://roadmap.sh/"><img src="https://img.shields.io/badge/Roadmap.sh-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/backend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Backend-79%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/full-stack?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Fullstack-57%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/devops?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Devops-38%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-42%25-00a3a3?style=flat-square" /></a>
+</div>

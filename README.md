@@ -88,14 +88,6 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <h3 align="center">🔨 What I've used once or twice</h3>
 </p>
 
-<details>
-
-<summary align="center">
-<i><code>Click here to expand</code></i>
-</summary>
-
-<br>
-
 <p align="center">
 	<!-- Javascript / Frontend -->
 	<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
@@ -105,49 +97,38 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"></a>
-	<br>
 	<!-- Java -->
 	<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Oracle%20Weblogic-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
-	<br>
 	<!-- Python -->
 	<a href="#"><img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"></a>
 	<a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-d22528?style=flat-square"></a>
 	<a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"></a>
-	<br>
 	<!-- C# -->
 	<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform-0078D4?style=flat-square&logo=microsoft&logoColor=white"></a>
-	<br>
 	<!-- DB -->
 	<a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"></a>
-	<br>
 	<!-- Infrastucture -->
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"></a>
-	<br>
 	<!-- 3D / Video Games -->
 	<a href="#"><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"></a>
-	<br>
 	<!-- Versioning -->
 	<a href="#"><img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat-square&logo=subversion&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Rational%20Clearcase-42e6f5?style=flat-square"></a>
-	<br>
 	<!-- Code Analysis -->
 	<a href="#"><img src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD"></a>
-	<br>
 	<!-- Languages -->
 	<a href="#"><img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white"></a>
 </p>
-
-</details>
 
 
 

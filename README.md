@@ -161,7 +161,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=450
 	align="center"
-	src="https://streak-stats.demolab.com?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2023"
+	src="https://github-readme-streak-stats-nine-indol.vercel.app?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2023"
 />
 <img
 	height=200

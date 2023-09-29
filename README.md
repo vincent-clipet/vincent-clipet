@@ -54,6 +54,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
 	<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Shell_Script-944d18?style=flat-square&logo=gnu-bash&logoColor=white"></a>
@@ -110,7 +111,6 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"></a>
 	<!-- C# -->
-	<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform-0078D4?style=flat-square&logo=microsoft&logoColor=white"></a>
 	<!-- DB -->
@@ -145,8 +145,10 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
 	<a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine"></a>
 </p>
 
@@ -167,7 +169,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=340
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses&size_weight=0.3&count_weight=0.8"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses,miscellaneous_global-knowledge&size_weight=1.0&count_weight=1.0"
 />
 </div>
 

@@ -121,6 +121,8 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Jekyll-%cc0000.svg?style=flat-square&logo=Jekyll&logoColor=white"></a>
 	<!-- 3D / Video Games -->
 	<a href="#"><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"></a>
@@ -146,9 +148,12 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"></a>
+	<br>
 	<a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
+	<br>
 	<a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine"></a>
 </p>
 
@@ -169,7 +174,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=340
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses,miscellaneous_global-knowledge&size_weight=1.0&count_weight=1.0"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses,miscellaneous_global-knowledge&size_weight=1.0&count_weight=1.08"
 />
 </div>
 

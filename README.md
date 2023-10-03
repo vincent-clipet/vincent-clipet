@@ -15,7 +15,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 </p>
 
 <p align="center">
-<a href="https://github.com/vincent-clipet/vincent-clipet/blob/main/files/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp;
+<a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/vincent-clipet-044721260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;

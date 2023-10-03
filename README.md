@@ -174,7 +174,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=340
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=tsql,html,css,scss,md&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=10&exclude_repo=University-Courses,miscellaneous_global-knowledge&size_weight=1.0&count_weight=1.08"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.1&count_weight=1.1"
 />
 </div>
 

@@ -15,7 +15,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 </p>
 
 <p align="center">
-<a href="https://github.com/vincent-clipet"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
+<a href="https://github.com/vincent-clipet"><img src="https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;
 <a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/vincent-clipet-044721260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -123,7 +123,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/Jekyll-%cc0000.svg?style=flat-square&logo=Jekyll&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Jekyll-cc0000.svg?style=flat-square&logo=Jekyll&logoColor=white"></a>
 	<!-- 3D / Video Games -->
 	<a href="#"><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"></a>
@@ -167,13 +167,13 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <div align="center">
 <img
 	height=200
-	width=450
+	width=430
 	align="center"
 	src="https://github-readme-streak-stats-nine-indol.vercel.app?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2023"
 />
 <img
 	height=200
-	width=340
+	width=310
 	align="center"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.1&count_weight=1.1"
 />

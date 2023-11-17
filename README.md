@@ -5,7 +5,7 @@
 
 <p align="center">
 I'm a developer from Dunkerque, France, with 4 years of experience as a backend developer,
-<br>and <b>currently looking for full-time work</b> around Dunkerque or Lille.
+<br>and currently working at A2SI in Dunkerque.
 </p>
 <p align="center">
 I also have a background in <code>Unix systems administration</code> and <code>Networking</code>.
@@ -16,7 +16,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 
 <p align="center">
 <a href="https://github.com/vincent-clipet"><img src="https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;
-<a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp;
+<!-- <a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp; -->
 <a target="_blank" href="https://www.linkedin.com/in/vincent-clipet-044721260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 <a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
@@ -149,7 +149,9 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"></a>
+	<br>
+	<a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"></a>
 	<br>
 	<a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"></a>

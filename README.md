@@ -186,7 +186,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <div align="center">
 <a href="https://roadmap.sh/"><img src="https://img.shields.io/badge/Roadmap.sh-00a3a3?style=flat-square" /></a>
 <a href="https://roadmap.sh/backend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Backend-79%25-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/full-stack?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Fullstack-57%25-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/devops?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Devops-38%25-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-42%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/full-stack?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Fullstack-59%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/devops?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Devops-41%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-46%25-00a3a3?style=flat-square" /></a>
 </div>

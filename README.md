@@ -4,22 +4,23 @@
 </p>
 
 <p align="center">
-I'm a developer from Dunkerque, France, with 4 years of experience as a backend developer,
-<br>and currently working at A2SI in Dunkerque.
+I'm a developer from Dunkerque, France, with 4 years of experience as a <code>backend developer</code>.
+<br>
+I also have a background in <code>Unix systems administration</code> and <code>Networking</code>.
 </p>
 <p align="center">
-I also have a background in <code>Unix systems administration</code> and <code>Networking</code>.
+Currently working at <a href="https://www.a2si.net/">A2SI</a> in Dunkerque,
+<br>doing <code>fullstack webdev</code>, <code>system administration</code>, and a bit of <code>mobile dev</code>.
 </p>
 <p align="center">
 I also enjoy 🎮video games development, 🧩game design, 🌎translation and 🎥cinematography.
 </p>
 
 <p align="center">
-<a href="https://github.com/vincent-clipet"><img src="https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;
-<!-- <a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp; -->
 <a target="_blank" href="https://www.linkedin.com/in/vincent-clipet-044721260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:vincent.clipet.7@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+<a href="https://vincent-clipet.github.io/vincent-clipet/assets/pdf/Vincent%20Clipet%20-%20D%C3%A9veloppeur%20Backend.pdf"><img src="https://img.shields.io/badge/CV%20-%20Resume-ea580f?style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/vincent-clipet"><img src="https://img.shields.io/badge/github-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;
+<a target="_blank" href="https://twitter.com/VClipet"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>&nbsp;
 </p>
 
 <hr>
@@ -51,15 +52,22 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 </p>
 
 <p align="center">
-	<!-- Languages :-->
+	<!-- JavaScript & PHP + frameworks :-->
+	<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
+	<br>
+	<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"></a>
+	<br>
+	<!-- Other languages-->
+	<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>
-	<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Shell_Script-944d18?style=flat-square&logo=gnu-bash&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"></a>
 	<br>
 	<!-- DB -->
 	<a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"></a>
@@ -67,7 +75,6 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&	logoColor=white"></a>
 	<br>
 	<!-- Javascript / Frontend -->
-	<a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
@@ -78,7 +85,8 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
 	<br>
-	<!-- Web servers -->
+	<!-- Infrastructure -->
+	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white"></a>
 </p>
@@ -89,21 +97,20 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 
 
 
-<p align="center">
-<b align="center">🔨 What I've used once or twice</b>
-</p>
+
+<details align="center">
+<summary><b align="center">🔨 What I've used a few times</b></summary>
+
+<br>
 
 <p align="center">
 	<!-- Javascript / Frontend -->
-	<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"></a>
 	<a href="#"><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
 	<a href="#"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"></a>
 	<br>
 	<!-- Java -->
 	<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"></a>
@@ -118,32 +125,35 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<a href="#"><img src="https://img.shields.io/badge/SQLAlchemy-d22528?style=flat-square"></a>
 	<a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"></a>
-	<!-- PHP -->
-	<a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"></a>
 	<br>
 	<!-- Languages -->
+	<a href="#"><img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white"></a>
+	<br>
 	<!-- DB -->
 	<a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"></a>
+	<br>
 	<!-- Infrastucture -->
-	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Jekyll-cc0000.svg?style=flat-square&logo=Jekyll&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"></a>
+	<br>
+	<!-- Versioning / Code Analysis-->
+	<a href="#"><img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat-square&logo=subversion&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Rational%20Clearcase-42e6f5?style=flat-square"></a>
+	<a href="#"><img src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD"></a>
 	<br>
 	<!-- 3D / Video Games -->
 	<a href="#"><img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white"></a>
 	<br>
-	<!-- Versioning -->
-	<a href="#"><img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat-square&logo=subversion&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/Rational%20Clearcase-42e6f5?style=flat-square"></a>
-	<!-- Code Analysis -->
-	<a href="#"><img src="https://img.shields.io/badge/SonarQube-black?style=flat-square&logo=sonarqube&logoColor=4E9BCD"></a>
 </p>
+
+</details>
 
 <hr>
 
@@ -151,15 +161,15 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 
 
 
-<p align="center">
-<b align="center">📖📈 What I'm planning to learn/improve in the future</b>
-</p>
+
+
+<details align="center">
+<summary><b align="center">📖📈 What I'm planning to learn/improve in the future</b></summary>
+
+<br>
 
 <p align="center">
 	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
-	<br>
-	<a href="#"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"></a>
-	<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"></a>
 	<br>
 	<a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"></a>
@@ -167,6 +177,8 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<br>
 	<a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine"></a>
 </p>
+
+</details>
 
 <hr>
 

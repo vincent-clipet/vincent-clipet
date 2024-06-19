@@ -1,3 +1,8 @@
+<html>
+<head>
+	<link rel="shortcut icon" type="image/x-icon" href="./assets/images/favicon.png">
+</head>
+<body>
 
 <p align="center">
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=22&center=true&pause=20000&color=E8E8E8&width=300&height=28&vCenter=true&lines=Hi+there+%F0%9F%91%8B" /></a>
@@ -210,3 +215,6 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <a href="https://roadmap.sh/devops?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Devops-41%25-00a3a3?style=flat-square" /></a>
 <a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-46%25-00a3a3?style=flat-square" /></a>
 </div>
+
+</body>
+</html>

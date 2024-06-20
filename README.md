@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-I'm a developer from Dunkerque, France, with 4 years of experience as a <code>backend developer</code>.
+I'm a developer based in Dunkerque, France, with 4 years of experience as a <code>backend developer</code>.
 <br>
-I also have a background in <code>Unix systems administration</code> and <code>Networking</code>.
+I also have a background in <code>Unix systems administration</code> and <code>networking</code>.
 </p>
 <p align="center">
-Currently working at <a href="https://www.a2si.net/">A2SI</a> in Dunkerque,
-<br>doing <code>fullstack webdev</code>, <code>system administration</code>, and a bit of <code>mobile dev</code>.
+I am currently working at <a href="https://www.a2si.net/">A2SI</a> in Dunkerque,
+<br>doing <code>fullstack web development</code>, <code>system administration</code>, and some <code>mobile development</code>.
 </p>
 <p align="center">
 I also enjoy 🎮video games development, 🧩game design, 🌎translation and 🎥cinematography.
@@ -76,6 +76,7 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	<br>
 	<!-- DB -->
 	<a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/MariaDB-d94a3a?style=flat-square&logo=mariadb&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&	logoColor=white"></a>
 	<br>
@@ -174,7 +175,8 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 <br>
 
 <p align="center">
-	<a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
+	<a href="https://htmx.org/"><img src="https://img.shields.io/badge/HTMX-%23ffffff.svg?style=flat-square&logoColor=3d72d7"></a>
 	<br>
 	<a href="#"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"></a>
 	<a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white"></a>
@@ -202,18 +204,21 @@ I also enjoy 🎮video games development, 🧩game design, 🌎translation and �
 	height=200
 	width=310
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.1&count_weight=1.1"
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.4&count_weight=1.4"
 />
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://roadmap.sh/"><img src="https://img.shields.io/badge/Roadmap.sh-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/backend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Backend-79%25-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/full-stack?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Fullstack-59%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/"><img src="https://img.shields.io/badge/Roadmap.sh-EB8613?style=flat-square" /></a>
+<a href="https://roadmap.sh/backend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Backend-81%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/linux?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Linux-80%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/full-stack?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Fullstack-65%25-00a3a3?style=flat-square" /></a>
 <a href="https://roadmap.sh/devops?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Devops-41%25-00a3a3?style=flat-square" /></a>
-<a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-46%25-00a3a3?style=flat-square" /></a>
+<br>
+<a href="https://roadmap.sh/javascript?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/JavaScript-81%25-00a3a3?style=flat-square" /></a>
+<a href="https://roadmap.sh/frontend?s=650f0cc4d5295d7a813ac921"><img src="https://img.shields.io/badge/Frontend-48%25-00a3a3?style=flat-square" /></a>
 </div>
 
 </body>

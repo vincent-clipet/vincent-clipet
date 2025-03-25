@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-I'm a developer based in Dunkerque, France, with 5+ years of experience as a <code>backend developer</code>.
+I'm a developer based in Dunkerque, France, with 6 years of experience as a <code>backend developer</code>.
 <br>
 I also have a background in <code>Unix systems administration</code> and <code>networking</code>.
 </p>
@@ -192,6 +192,7 @@ I also enjoy 🧩game design, 🎮video games development, 🎥cinematography, a
 	<br>
 	<a href="#"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>
 	<br>
+	<a href="#"><img src="https://img.shields.io/badge/GLSL-000000?style=flat-square&logo=opengl"></a>
 	<a href="#"><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine"></a>
 </p>
 
@@ -216,6 +217,12 @@ I also enjoy 🧩game design, 🎮video games development, 🎥cinematography, a
 	align="center"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.4&count_weight=1.4"
 />
+<!-- <img
+	height=200
+	width=310
+	align="center"
+	src="https://github-readme-stats.vercel.app/api?username=vincent-clipet&theme=darcula&show_icons=true&bg_color=11111100&title_color=EB8613&hide_border=true&count_private=true"
+/> -->
 </div>
 
 <br>

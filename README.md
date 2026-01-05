@@ -209,13 +209,13 @@ I also enjoy 🧩game design, 🎮video games development, 🎥cinematography, a
 	height=200
 	width=430
 	align="center"
-	src="https://github-readme-streak-stats-nine-indol.vercel.app?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2023"
+	src="https://github-readme-streak-stats-tan-rho.vercel.app/?user=vincent-clipet&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=EB8613&fire=EB8613&currStreakLabel=EB8613&currStreakNum=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&dates=8E8E8E&starting_year=2025"
 />
 <img
 	height=200
 	width=310
 	align="center"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.4&count_weight=1.4"
+	src="https://github-readme-stats-eight-delta-26.vercel.app/api/top-langs/?username=vincent-clipet&layout=compact&theme=darcula&hide=html,css,scss,markdown&hide_border=true&bg_color=11111100&title_color=EB8613&langs_count=8&exclude_repo=University-Courses,miscellaneous_global-knowledge,video_da2i&size_weight=1.4&count_weight=1.4"
 />
 <!-- <img
 	height=200
